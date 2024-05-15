@@ -1,0 +1,11 @@
+idUsuario,nombre,edad,telefono,sexo,telefonoMovil,email
+1,Juan,30,123456789,Masculino,987654321,juan@gmail.com
+2,Maria,25,987654321,Femenino,123456789,maria@gmail.com
+3,Carlos,35,5551234,Masculino,5559876,carlos@gmail.com
+4,Ana,28,5554321,Femenino,5555678,ana@gmail.com
+5,Pedro,40,3337777,Masculino,3339999,pedro@gmail.com
+6,Luisa,22,7778888,Femenino,7775555,luisa@gmail.com
+7,Miguel,31,6664444,Masculino,6663333,miguel@gmail.com
+8,Elena,29,2221111,Femenino,2223333,elena@gmail.com
+9,Daniel,27,9991111,Masculino,9994444,daniel@gmail.com
+10,Laura,33,8889999,Femenino,8887777,laura@gmail.com
